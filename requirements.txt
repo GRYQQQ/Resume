@@ -26,12 +26,12 @@ ipywidgets==8.1.0
 jedi==0.18.1
 jinja2==3.1.2
 jsonschema==4.10.0
-jupyter==1.0.0
+jupyter
 jupyter-client
-jupyter-console==6.4.4
+jupyter-console
 jupyter-core
-jupyterlab==4.0.4
-jupyterlab-pygments==0.2.2
+jupyterlab
+jupyterlab-pygments
 kiwisolver==1.4.4
 markupsafe==2.1.1
 matplotlib==3.5.1
